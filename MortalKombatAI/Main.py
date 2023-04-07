@@ -2,6 +2,7 @@ import retro
 import tensorflow as tf
 import numpy as np
 from collections import deque
+import random
 
 # Step 1: Install and import libraries
 
